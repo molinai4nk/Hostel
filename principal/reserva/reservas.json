@@ -1,0 +1,47 @@
+{
+    "3": {
+        "usuario": "keko.kelvyn8@gmail.com",
+        "local": "S\u00e3o Paulo",
+        "tipo_suitedeluxo": "Su\u00edte de Luxo ",
+        "checkin": "2023-11-20",
+        "checkout": "2023-11-30",
+        "valor-total": "1000.00",
+        "forma-pagamento": "pix"
+    },
+    "5": {
+        "usuario": "keko.kelvyn8@gmail.com",
+        "local": "S\u00e3o Paulo",
+        "tipo_suitedeluxo": "Su\u00edte de Luxo ",
+        "checkin": "2023-11-20",
+        "checkout": "2023-12-06",
+        "valor-total": "1600.00",
+        "forma-pagamento": "Cart\u00e3o de D\u00e9tido\/Cr\u00e9dito"
+    },
+    "6": {
+        "usuario": "keko.kelvyn8@gmail.com",
+        "local": "S\u00e3o Paulo",
+        "tipo_suitedeluxo": "Su\u00edte de Luxo ",
+        "checkin": "2023-11-21",
+        "checkout": "2023-11-30",
+        "valor-total": "900.00",
+        "forma-pagamento": "Dinheiro"
+    },
+    "7": {
+        "usuario": "adm@adm.com",
+        "local": "S\u00e3o Paulo",
+        "tipo_suitedeluxo": "Su\u00edte-Luxo",
+        "checkin": "2023-11-29",
+        "checkout": "2023-12-01",
+        "valor-total": "3600.00",
+        "forma-pagamento": "PIX"
+    },
+    "8": {
+        "usuario": "adm@adm.com",
+        "local": "S\u00e3o Paulo",
+        "tipo_suitedeluxo": "Su\u00edte-Luxo",
+        "checkin": "2024-05-30",
+        "checkout": "2024-06-07",
+        "valor-total": "10800.00",
+        "forma-pagamento": "PIX"
+    }
+}

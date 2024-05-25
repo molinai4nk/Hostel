@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.topo {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.end{
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px black, 0 1px 2px;
+}
+.conta{
+    width: 100%;
+    text-align: center;
+}
+.btn-1{
+    margin: auto;
+    border:1px solid #3498db;
+    background: #3498db;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 1000px;
+
+}
+.form-div{
+    margin-top: 1%;
+    width: 33.33%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    min-height: 200px;
+    display: flex;
+    align-items: flex;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px black, 0 1px 2px;
+}
+.form-group{
+  display: inline-block;
+
+}
+.form-label{
+    font-size: 14px;
+}
+.form-input{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.btn-class{
+    text-align: center;
+}
+.btn{
+    margin: 15px;
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    border: none;
+    border-radius: 1000px;
+    color: white;
+    transition: all 0.6s ease-in-out 0s;
+/*     box-shadow: inset 0 0 20px #3498db; */
+    background-color: #3498db;
+  }
+
+
+  /* titulo do perfil.php e do upd_user.php do editado por cliente */
+
+  .topo {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .edit {
+    border: 1px 0 #3498db;
+    color: #3498db;
+    text-decoration: none;
+    gap: 10px;
+    transition: .5s;
+}
+
+/* texto abaixo do botão cadastrar */
+.error-border {
+    border: 1px solid red;
+}
+.apagando {
+    opacity: 0.5; 
+    color: #333; 
+}
+
